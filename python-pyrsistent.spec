@@ -46,5 +46,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc README.rst
 %{py_sitedir}/_pyrsistent_*.py[co]
+%{py_sitedir}/pyrsistent.py[co]
 %attr(755,root,root) %{py_sitedir}/pvectorc.so
 %{py_sitedir}/pyrsistent-%{version}-py*.egg-info
