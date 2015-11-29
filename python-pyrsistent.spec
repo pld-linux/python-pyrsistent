@@ -10,7 +10,7 @@ Source0:	https://pypi.python.org/packages/source/p/%{module}/%{module}-%{version
 URL:		http://github.com/tobgu/pyrsistent/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-six
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
