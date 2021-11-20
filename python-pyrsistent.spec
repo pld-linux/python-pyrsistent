@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Trwałe/funkcyjne/niezmienne struktury danych
 Name:		python-pyrsistent
 # keep 0.15.x for python2 support
 Version:	0.15.7
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pyrsistent/
